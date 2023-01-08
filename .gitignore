@@ -1,0 +1,10 @@
+# Project place file
+/ModuleName.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally
+/DevPackages/*
+/Packages/*

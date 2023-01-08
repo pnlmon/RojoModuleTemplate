@@ -1,0 +1,6 @@
+{
+  "name": "rojo-template-module",
+  "tree": {
+    "$path": "src/ModuleName"
+  }
+}

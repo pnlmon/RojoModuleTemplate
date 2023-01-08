@@ -1,0 +1,13 @@
+[package]
+name = "organization-name/module-name"
+description = "A module that does something"
+version = "0.1.0"
+authors = ["pnlmon <oth@havingastroke.party>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+
+[dependencies]
+
+[server-dependencies]
+
+[dev-dependencies]

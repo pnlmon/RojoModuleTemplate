@@ -1,0 +1,29 @@
+{
+    "name": "ModuleName",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "DevPackages": {
+                "$path": "DevPackages"
+            },
+            "rojo-template-module": {
+                "$path": "src/ModuleName",
+                "Packages": {
+                    "$path": "Packages"
+                }
+            }
+        },
+        "ServerScriptService": {
+            "Server": {
+                "$path": "src/test/server"
+            }
+        },
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "Client": {
+                    "$path": "src/test/client"
+                }
+            }
+        }
+    }
+}
